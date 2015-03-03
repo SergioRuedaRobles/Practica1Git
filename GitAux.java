@@ -1,6 +1,5 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Esto es lo que cambie
  */
 package prgitejemplo;
 
